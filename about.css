@@ -1,0 +1,77 @@
+
+p{
+     color: #00ff4c;
+     font-size: 20px;
+}
+/* SECTIONS */
+
+.section {
+  padding: 80px 120px;
+}
+.hero-about{
+    margin-top: 100px;
+}
+.center {
+  text-align: center;
+}
+
+/* TITLES */
+.title {
+  font-family: 'Black Ops One', system-ui;
+  font-size: 48px;
+  letter-spacing: 6px;
+  color: #fff;
+  margin-bottom: 30px;
+}
+
+.title span {
+  color: #00ff4c;
+   font-family: 'Black Ops One', system-ui;
+  font-size: 48px;
+  letter-spacing: 6px;
+}
+
+.heading {
+  font-size: 35px;
+  color: #fff;
+  margin-bottom: 15px;
+}
+
+/* TEXT */
+.text {
+  
+  line-height: 1.8;
+  margin-bottom: 22px;
+}
+
+/* LIST */
+.list {
+  list-style: none;
+}
+
+.list li {
+  margin-bottom: 15px;
+}
+
+.list span {
+  color: #fff;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+/* LOGOS */
+.logos {
+   margin-top: 90px;
+}
+
+.logo-box {
+  
+    gap: 15%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+
+
+
